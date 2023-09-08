@@ -1,0 +1,62 @@
+[
+    {
+        "username": "Username",
+        "phone_number": "Phone Number",
+        "mail": "df@cdf.d",
+        "password": "xscas@cdA12",
+        "age": "Age",
+        "national_id": "National ID",
+        "gender": "Male",
+        "governorate": "Cairo"
+    },
+    {
+        "username": "Username",
+        "phone_number": "Phone Number",
+        "mail": "h@n.s",
+        "password": "mm2kkNM@",
+        "age": "5",
+        "national_id": "National ID",
+        "gender": "Male",
+        "governorate": "Cairo"
+    },
+    {
+        "username": "DD",
+        "phone_number": "1",
+        "mail": "D@D.D",
+        "password": "123yoesf123F@",
+        "age": "1",
+        "national_id": "kkkk",
+        "gender": "Male",
+        "governorate": "Cairo"
+    },
+    {
+        "username": "Username",
+        "phone_number": "01011888273",
+        "mail": "KK@M.J",
+        "password": "HJFGHFGHGH@f2",
+        "age": "7",
+        "national_id": "12345678901234",
+        "gender": "Male",
+        "governorate": "Cairo"
+    },
+    {
+        "username": "d",
+        "phone_number": "12345678912",
+        "mail": "s@s.ss",
+        "password": "123@dDDV",
+        "age": "2",
+        "national_id": "12345678901234",
+        "gender": "Male",
+        "governorate": "Cairo"
+    },
+    {
+        "username": "user",
+        "phone_number": "12345678901",
+        "mail": "dnjfdscscvnh@jgbfdj.dskjf",
+        "password": "1fhdsfjhHG1@",
+        "age": "23",
+        "national_id": "12345678912345",
+        "gender": "Male",
+        "governorate": "Cairo"
+    }
+]
